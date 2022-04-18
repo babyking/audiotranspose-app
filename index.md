@@ -1,7 +1,6 @@
 
-# Audio Transpose APP
 
-Audio Transpose  is a tool to adjust the key and tempo of music.
+Audio Transpose APP  is a tool to adjust the key and tempo of music.
 1. Key up/down to keep the tempo constant
 2. Adjust the tempo to keep the key constant
 3. Adjust the key and speed at the same time
